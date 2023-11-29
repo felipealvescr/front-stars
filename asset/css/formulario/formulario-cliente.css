@@ -1,0 +1,8 @@
+form { display: flex; justify-content: space-evenly; }
+
+.input__padrao { width: 300px; height: 40px; padding-left: 25px; padding-right: 25px; margin-top: 20px; margin-bottom: 30px; margin-left: 50px; border: 1px solid rgb(212, 205, 205); }
+
+
+.cliente__button { left: 380px; top: 90px; font-size: 18px; color: white; background: #f23b3b; border: none; border-radius: 4px; padding: 14px 80px; margin: 10px 0px 10px 850px; }
+
+.cliente__button:hover { cursor: pointer; }

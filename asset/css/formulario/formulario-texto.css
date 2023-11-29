@@ -1,0 +1,7 @@
+.formulario__texto { width: 100%; text-align: center; }
+
+.formulario__texto h2 { text-transform: uppercase; margin: 20px 0 20px 0; }
+
+.formulario__linha { border: 1px solid #f23b3b; border-top: none; margin: 0px auto; width: 50%; }
+
+.formulario__texto p { color: gray;  margin: 35px auto; width: 550px; }

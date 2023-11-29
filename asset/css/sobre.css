@@ -1,0 +1,17 @@
+#sobre__container { position: relative; margin-top: -15px; }
+
+.sobre__imagem { width: 100%; height: 750px; }
+
+.sobre__caixa { background: #ffffff; position: absolute; width: 450px; height: 550px; top: 100px; margin: 0px 0px 0px 90px; }
+
+.barra__02 { width: 100%; height: 3px; background: #f23b3b; }
+
+.sobre__caixa h2 { font-size: 20px; margin: 30px 0 20px 50px; }
+
+.linha { width: 45%; margin-left: 50px; }
+
+.sobre__caixa p { color: gray; font-size: 14px; width: 80%; margin: 20px 0 10px 50px; text-align: justify; }
+
+.sobre__button { color: #ffffff; background: #f23b3b; border: none; border-radius: 5px; padding: 10px 20px; margin: 10px 0px 0px 50px; font-weight: bold; }
+
+.sobre__button:hover { cursor: pointer; }
